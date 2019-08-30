@@ -1,7 +1,10 @@
-print ("My Name Is Mehboob")
-print ("I Am Muslim")
-print ("I Live In Lahore")
-print ("I Love PAKISTAN")
-print ("I AM 29 Years Old")
-print ("I Work In A Software Company")
-print ("Timing is 9 TO 6")
+hungry=input("R U Hungry?")
+if hungry=="yes":
+	print("eat samosa")
+	print("eat pizza")
+	print("eat burger")
+else:
+	thirsty=input("R U Thirsty")
+	if thirsty=="yes":
+		print("Do Your Homework")
+		print("Drink Sode")
