@@ -8,3 +8,5 @@ else:
 	if thirsty=="yes":
 		print("Do Your Homework")
 		print("Drink Sode")
+		
+		print("Drink Sode Also")
